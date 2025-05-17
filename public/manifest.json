@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "incremental-clozes-plugin",
+  "name": "Incremental Clozes",
+  "author": "yo-cuti",
+  "repoUrl": "https://github.com/yo-cuti/remnote-split-clozes-plugin/releases",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "Este plugin para RemNote te permite crear rápidamente tarjetas de tipo cloze (ocultar partes) a partir de texto resaltado con colores específicos dentro de un Rem",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
